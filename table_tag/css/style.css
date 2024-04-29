@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+h3{
+    color: red;
+}
+.group-1{
+    background-color: lightgray;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.group-2{
+    background-color: lightgreen;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.text-blue{
+    color: blue;
+}
+.text-red{
+    color: red;
+}
+#line-1{
+    color: red;
+    text-decoration: underline;
+}
+.group-a p:nth-child(3){
+    color: lightcoral
+}
